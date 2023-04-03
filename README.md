@@ -9,3 +9,5 @@ CodeConnect also provides users with the ability to monetize their projects, col
 CodeConnect provides a range of customization options for users, such as the ability to add customizable test suites to test their projects on the platform. Additionally, the platform offers a free 10MB storage upon sign-up, with a premium plan available for those requiring more storage.
 
 The platform is suitable for web developers of all levels, and provides a slogan of "Collaborate, Create, Connect" to reflect its core values of teamwork, creativity, and community. With features like clustering, monetization, and collaboration, CodeConnect is the perfect platform for developers looking to share and collaborate on web development projects.
+
+Attached as files on the repository are two images that convey the initial GUI and homepage of the website.
