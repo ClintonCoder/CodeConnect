@@ -12,4 +12,4 @@ The platform is suitable for web developers of all levels, and provides a slogan
 
 Attached as files on the repository are two images that convey the initial GUI and homepage of the website.
 
-https://github.com/ClintonCoder/CodeConnect/issues/1#issue-1737379478
+https://github.com/ClintonCoder/CodeConnect/assets/126724753/6eb56168-6979-4f29-af1f-cda098f75b2a
