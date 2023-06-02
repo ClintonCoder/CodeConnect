@@ -11,3 +11,5 @@ CodeConnect provides a range of customisation options for users, such as the abi
 The platform is suitable for web developers of all levels, and provides a slogan of "Collaborate, Create, Connect" to reflect its core values of teamwork, creativity, and community. With features like clustering, monetisation, and collaboration, CodeConnect is the perfect platform for developers looking to share and collaborate on web development projects.
 
 Attached as files on the repository are two images that convey the initial GUI and homepage of the website.
+
+https://github.com/ClintonCoder/CodeConnect/assets/126724753/56efcb82-8977-4dee-9b3d-bcc4c7dc4b9e
